@@ -1,0 +1,26 @@
+// Fonts..../
+@import url("https://fonts.googleapis.com/css2?family=Lemon&family=Open+Sans:wght@400;600&display=swap");
+
+/* Variables */
+//
+
+$header-height: 3.4rem;
+
+// Colors..../
+$first-color: hsla(2, 100%, 61%, 1);
+$first-color-alt: hsla(2, 89%, 53%, 1);
+$title-color: hsla(233, 20%, 15%, 1);
+$text-color: hsla(233, 4%, 35%, 1);
+$body-color: hsla(2, 100%, 97%, 1);
+
+// Fonts..../
+$body-font: "Open Sans", sans-serif;
+$second-font: "Lemon", cursive;
+$biggest-fs: 2.25rem;
+$normal-fs: 0.938rem;
+
+// Responsives size..../
+@media screen and (min-width: 1024px) {
+  $biggest-fs: 3.5rem;
+  $normal-fs: 1rem;
+}

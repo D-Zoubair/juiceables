@@ -1,0 +1,23 @@
+{
+  "name": "responsive-juice-website",
+  "version": "1.0.0",
+  "description": "- Responsive Juice Website Design Using HTML CSS & JavaScript - Contains CSS & GSAP animations. - Developed first with the Mobile First methodology, then for desktop. - Compatible with all mobile devices and with a beautiful and pleasant user interface.",
+  "main": "index.js",
+  "scripts": {
+    "run": "sass src/scss/main.scss:src/css/main.css",
+    "watch": "sass --watch src/scss/main.scss:src/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bedimcode/responsive-juice-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bedimcode/responsive-juice-website/issues"
+  },
+  "homepage": "https://github.com/bedimcode/responsive-juice-website#readme",
+  "dependencies": {
+  }
+}
